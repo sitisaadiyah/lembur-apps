@@ -1,4 +1,4 @@
-const CACHE = 'lembur-v1';
+const CACHE = 'lembur-v2';
 const APP_SHELL = [
   './',
   './index.html',
